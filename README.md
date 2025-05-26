@@ -28,7 +28,7 @@ A comprehensive, modern learning management system built with the MERN stack (Mo
 
 
 ### 📱 **Quick Access**
-🔗 **Main Application**: [https://learnhub-frontend.vercel.app](https://learnhub-frontend.vercel.app)
+🔗 **Main Application**: [https://learnhub-frontend.vercel.app](https://v0-new-lovat-alpha.vercel.app/)
 
 ### 🔐 **Demo Accounts**
 \`\`\`
