@@ -2,7 +2,7 @@
 
 A comprehensive, modern learning management system built with the MERN stack (MongoDB, Express.js, React, Node.js). LearnHub provides a complete solution for online education with interactive courses, progress tracking, and analytics.
 
-![LearnHub Banner](https://via.placeholder.com/1200x400/4F46E5/FFFFFF?text=LearnHub+-+Modern+Learning+Platform)
+
 
 ## 🌟 Features
 
@@ -25,12 +25,7 @@ A comprehensive, modern learning management system built with the MERN stack (Mo
 - **Course Oversight**: Monitor all courses and platform activity
 - **Analytics & Reporting**: Detailed insights into platform performance
 
-## 🚀 Live Demo
 
-### 🌐 **Deployed Applications**
-- **Frontend**: [https://learnhub-frontend.vercel.app](https://learnhub-frontend.vercel.app) ✅ **LIVE**
-- **Backend API**: [https://learnhub-backend-production.up.railway.app](https://learnhub-backend-production.up.railway.app) ✅ **LIVE**
-- **API Health Check**: [https://learnhub-backend-production.up.railway.app/api/health](https://learnhub-backend-production.up.railway.app/api/health)
 
 ### 📱 **Quick Access**
 🔗 **Main Application**: [https://learnhub-frontend.vercel.app](https://learnhub-frontend.vercel.app)
@@ -91,45 +86,7 @@ Password: password123
 - **MongoDB Atlas** - Cloud database
 - **Git** - Version control
 
-## 📁 Project Structure
 
-\`\`\`
-learnhub/
-├── app/                          # Next.js app directory
-│   ├── (auth)/
-│   │   ├── login/               # Login page
-│   │   └── register/            # Registration page
-│   ├── courses/
-│   │   ├── [id]/               # Course details
-│   │   │   └── learn/          # Learning interface
-│   │   └── page.tsx            # Course catalog
-│   ├── dashboard/              # Student dashboard
-│   ├── profile/                # User profile
-│   ├── admin/                  # Admin dashboard
-│   ├── layout.tsx              # Root layout
-│   └── page.tsx                # Landing page
-├── components/
-│   ├── ui/                     # Reusable UI components
-│   ├── protected-route.tsx     # Route protection
-│   └── theme-provider.tsx      # Theme management
-├── lib/
-│   ├── api.ts                  # API client functions
-│   ├── auth-context.tsx        # Authentication context
-│   └── utils.ts                # Utility functions
-├── server/                     # Backend application
-│   ├── models/                 # MongoDB schemas
-│   │   ├── User.js
-│   │   ├── Course.js
-│   │   └── Progress.js
-│   ├── routes/                 # API routes
-│   │   ├── auth.js
-│   │   ├── courses.js
-│   │   └── progress.js
-│   ├── middleware/             # Custom middleware
-│   ├── scripts/                # Database scripts
-│   └── app.js                  # Express application
-└── README.md
-\`\`\`
 
 ## 🚀 Quick Start
 
